@@ -1,0 +1,18 @@
+usar editor.swagger.io
+---
+
+https://codigosdeprogramacion.com/2020/01/08/conexion-de-csharp-a-base-de-datos-en-mysql/
+
+
+---
+
+En caso de que tengáis problemas a la hora de realizar la descarga de paquetes desde visual studio 2019 de los proyectos generados con swagger, debéis de modificar las preferencias de visual studio 2019:
+
+- Herramientas -> Administrador de paquetes Nuget -> Configuración del Administrador de paquetes -> Origenes del paquete 
+
+- Desactivar el origen de paquete dotnet-core, dejando únicamente marcado api.nuget.org
+
+Posteriormente se debe entrar a la carpeta generada y ejecuta build.bat para que descargue los paquetes adicionales.
+
+
+---
