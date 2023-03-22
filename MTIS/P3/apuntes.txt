@@ -1,0 +1,16 @@
+activemq en carpeta mtis -> bin/64/activemq.bat
+http://localhost:8161/
+http://localhost:8161/admin
+user/pass = admin/admin
+
+transport connectors en algun sitio en activemq
+
+seguridad en activemq es facil (?)
+
+no hacerlo en java que el profe se enoja y no nos pone 10
+
+
+
+
+
+
